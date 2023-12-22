@@ -1,0 +1,68 @@
+https://roadmap.sh/
+https://adventjs.dev/es#retos
+https://2022.adventjs.dev/es
+https://2021.adventjs.dev/
+https://www.codewars.com/dashboard
+https://www.patterns.dev/
+https://www.patterns.dev/vanilla/islands-architecture/
+https://biomejs.dev/
+https://oxc-project.github.io/
+https://www.freecodecamp.org/
+
+* Links
+
+- [[https://openseespydoc.readthedocs.io/en/latest/][opensees]]
+
+* free learn
+
+- [[https://www.freecodecamp.org/learn/][freecodecamp]]
+- [[https://fullstackopen.com/][fullstackopen]]
+- [[https://pll.harvard.edu/catalog][harvard]]
+- [[https://ocw.mit.edu/][mit]]
+- [[https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7][midudev botcam]]
+- [[https://www.theodinproject.com/paths][the odin project]]
+
+** Academic
+
+- [[https://hack4u.io/][hack4u]]
+- [[https://platzi.com][platzi]]
+
+** Sources
+
+- [[https://free-for.dev/*/][free-for]]
+- [[https://algorithm+visualizer.org/][algorith visualizer]]
+- [[https://github.com/public+apis+dev/public-apis][public apis]]
+- [[https://shots.so/][shots]]
+
+** lenguages
+
+- [[https://docs.julialang.org/en/v1/][julia]]
+
+** Otros
+
+- [[https://refactoring.guru/es][refactoring guru]]
+- [[https://book.hacktricks.xyz/welcome/readme][hacktrix]]
+
+** librerias
+
+- [[https://animejs.com/documentation/][animejs]]
+- [[https://threejs.org/][threejs]]
+- [[https://nextjs.org/][nextjs]]
+- [[https://blenderbim.org/][blenderBIM]]
+
+** base de datos
+
+- [[https://surrealdb.com/][surrealDB]]
+
+** Retos
+
+- [[https://pruebastecnicas.com/][midudev pruebas tecnicas]]
+- [[https://github.com/bradtraversy/50projects50days][50 projects]]
+- [[https://adventjs.dev/es][adventjs]]
+
+** Repos
+
+- [[https://github.com/midudev][midudev]]
+- [[https://gitlab.com/dwt1][distrotube]]
+
+https://github.com/ahrm/sioyek

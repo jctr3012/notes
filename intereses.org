@@ -1,0 +1,14 @@
+* Intereses
+
+- Arquitectura
+- Ingenieria electrica
+- Ingenieria electronica
+- Ingenieria mecanica
+- Ingenieria estructural
+- Ingenieria informatica
+- Ingenieria sistemas
+- Ciencias de la computacion
+- Diseño industrial
+- Diseño ui/ux
+- Diseño gráfico
+- Ingenieria de control
