@@ -1,2 +1,0 @@
-* Tasks
-** TODO [#A] Ingresar fiscalizacion de proyecto Ingenio Jimenez <2023-12-20>
