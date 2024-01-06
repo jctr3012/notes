@@ -1,0 +1,166 @@
+* Populars
+
+** Languages
+- JavaScript
+- HTML/CSS
+- SQL
+- Python
+- TypeScript
+- Bash/Shell (all shells)
+- Java
+- C#
+- C++
+- PHP
+- C
+- Go
+- Rust
+- Kotlin
+- Ruby
+- Dart
+- Lua
+- Assembly
+- Scala
+- R
+- Elixir
+- Haskell
+- Solidity
+- Clojure
+- Lisp
+- Erlang
+- F#
+- Julia
+- Prolog
+- Zig
+- Ada
+- Cobol
+- Crystal
+- SAS
+- Nim
+- Raku
+- Mojo
+
+** Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- Microsoft SQL Server
+- MongoDB
+- Redis
+- MariaDB
+- Elasticsearch
+- Dynamodb
+- Oracle
+- Cloud Firestore
+- Cosmos DB
+- Microsoft Access
+- Supabase
+- ArangoDB
+- Neo4J
+- IBM DB2
+- SurrealDB
+
+** Cloud plataforms
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud
+- Firebase
+- Cloudflare
+- Vercel
+- Netlify
+- Fly.io
+- Render
+
+** Web franerworks
+- React
+- Node.js
+- jQuery
+- Angular
+- Express
+- ASP.NET CORE
+- Vue.js
+- Next.js
+- ASP.NET
+- Spring Boot
+- Flask
+- Django
+- Laravel
+- AngularJS
+- FastAPI
+- Ruby on Rails
+- Svelte
+- NestJS
+- Blazor
+- Nuxt.js
+- Symfony
+- Phoenix
+- Fastify
+- Deno
+- Remix
+- Solid.js
+- Lit
+- Qwik
+- 
+
+** Otres
+- .NET (5+)
+- .NET Framework (1.0 - 4.8)
+- NumPy
+- Pandas
+- Spring Framework
+- RabbitMQ
+- Apache Kafka
+- Flutter
+- React Native
+- TensorFlow
+- Scikit-Learn
+- Torch/PyTorch
+- Opencv
+- Electron
+- OpenGL
+- Qt
+- Keras
+- Xamarin
+- Ionic
+- Cordova
+- Hugging Face Transformers
+- .NET MAUI
+- Hadoop
+- Tauri
+- GTK
+- Capacitor
+- Quarkus
+- Ktor
+
+** Tools
+- git
+- Docker
+- Webpack
+- Kubernetes
+- Make
+- NuGet
+- Maven (build tool)
+- Gradle
+- Vite
+- Visual Studio Solution
+- CMake
+- Terraform
+- MSBuild
+- Cargo
+- GNU GCC
+- Ansible
+- Composer
+- Chocolatey
+- LLVM's Clang
+- pnpm
+- Unity 3D
+- Pacman
+- Podman
+- Ninja
+- Unreal Engine
+- Godot
+- Nix
+- Dagger
+- QMake
+- Meson
+- Chef
+- Bun
